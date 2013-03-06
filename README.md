@@ -1,4 +1,3 @@
-blocks-inspector
-================
+# Blocks Inspector
 
-See https://github.com/adrianmacneil/craft-inspector
+This plugin has been renamed, for obvious reasons. Please see [craft-inspector](https://github.com/adrianmacneil/craft-inspector).
